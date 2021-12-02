@@ -1,4 +1,8 @@
 Bonjour je suis le fichier 2.
 2e ligne.
+<<<<<<< HEAD
 MODIF 090 2
 MODIF 090 3
+=======
+MODIF 090 2
+>>>>>>> 05a9c9e (modif 5)
