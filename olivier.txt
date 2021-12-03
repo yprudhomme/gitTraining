@@ -1,0 +1,110 @@
+total 48
+drwxr-xr-x  13 olivier  staff  416  3 déc 16:08 .git
+-rw-r--r--   1 olivier  staff  102  3 déc 16:08 .gitmodules
+drwxr-xr-x   2 olivier  staff   64  3 déc 16:08 datagenerator
+-rw-r--r--   1 olivier  staff   96  3 déc 16:08 file1.txt
+-rw-r--r--   1 olivier  staff   50  3 déc 16:08 file2.txt
+-rw-r--r--   1 olivier  staff   63  3 déc 16:08 file3.txt
+-rw-r--r--   1 olivier  staff    0  3 déc 16:08 file_4.txt
+-rw-r--r--   1 olivier  staff    0  3 déc 16:08 file_5.txt
+-rw-r--r--   1 olivier  staff    9  3 déc 16:08 file_6_from_clone.txt
+-rw-r--r--   1 olivier  staff    0  3 déc 16:08 file_6_local.txt
+-rw-r--r--   1 olivier  staff    0  3 déc 16:09 olivier.txt
+-rw-r--r--   1 olivier  staff   29  3 déc 16:08 readme.txt
+
+./.git:
+total 40
+-rw-r--r--   1 olivier  staff   23  3 déc 16:08 HEAD
+drwxr-xr-x   2 olivier  staff   64  3 déc 16:08 branches
+-rw-r--r--   1 olivier  staff  408  3 déc 16:08 config
+-rw-r--r--   1 olivier  staff   73  3 déc 16:08 description
+drwxr-xr-x  14 olivier  staff  448  3 déc 16:08 hooks
+-rw-r--r--   1 olivier  staff  850  3 déc 16:08 index
+drwxr-xr-x   3 olivier  staff   96  3 déc 16:08 info
+drwxr-xr-x   4 olivier  staff  128  3 déc 16:08 logs
+drwxr-xr-x   4 olivier  staff  128  3 déc 16:08 objects
+-rw-r--r--   1 olivier  staff  478  3 déc 16:08 packed-refs
+drwxr-xr-x   5 olivier  staff  160  3 déc 16:08 refs
+
+./.git/branches:
+total 0
+
+./.git/hooks:
+total 112
+-rwxr-xr-x  1 olivier  staff   478  3 déc 16:08 applypatch-msg.sample
+-rwxr-xr-x  1 olivier  staff   896  3 déc 16:08 commit-msg.sample
+-rwxr-xr-x  1 olivier  staff  4655  3 déc 16:08 fsmonitor-watchman.sample
+-rwxr-xr-x  1 olivier  staff   189  3 déc 16:08 post-update.sample
+-rwxr-xr-x  1 olivier  staff   424  3 déc 16:08 pre-applypatch.sample
+-rwxr-xr-x  1 olivier  staff  1643  3 déc 16:08 pre-commit.sample
+-rwxr-xr-x  1 olivier  staff   416  3 déc 16:08 pre-merge-commit.sample
+-rwxr-xr-x  1 olivier  staff  1348  3 déc 16:08 pre-push.sample
+-rwxr-xr-x  1 olivier  staff  4898  3 déc 16:08 pre-rebase.sample
+-rwxr-xr-x  1 olivier  staff   544  3 déc 16:08 pre-receive.sample
+-rwxr-xr-x  1 olivier  staff  1492  3 déc 16:08 prepare-commit-msg.sample
+-rwxr-xr-x  1 olivier  staff  3635  3 déc 16:08 update.sample
+
+./.git/info:
+total 8
+-rw-r--r--  1 olivier  staff  250  3 déc 16:08 exclude
+
+./.git/logs:
+total 8
+-rw-r--r--  1 olivier  staff  389  3 déc 16:08 HEAD
+drwxr-xr-x  4 olivier  staff  128  3 déc 16:08 refs
+
+./.git/logs/refs:
+total 0
+drwxr-xr-x  4 olivier  staff  128  3 déc 16:08 heads
+drwxr-xr-x  3 olivier  staff   96  3 déc 16:08 remotes
+
+./.git/logs/refs/heads:
+total 16
+-rw-r--r--  1 olivier  staff  200  3 déc 16:08 branch070
+-rw-r--r--  1 olivier  staff  195  3 déc 16:08 master
+
+./.git/logs/refs/remotes:
+total 0
+drwxr-xr-x  3 olivier  staff  96  3 déc 16:08 origin
+
+./.git/logs/refs/remotes/origin:
+total 8
+-rw-r--r--  1 olivier  staff  200  3 déc 16:08 HEAD
+
+./.git/objects:
+total 0
+drwxr-xr-x  2 olivier  staff   64  3 déc 16:08 info
+drwxr-xr-x  4 olivier  staff  128  3 déc 16:08 pack
+
+./.git/objects/info:
+total 0
+
+./.git/objects/pack:
+total 24
+-r--r--r--  1 olivier  staff  3116  3 déc 16:08 pack-6ebdc20170be673b286e8bc805d2c6f5c9426af5.idx
+-r--r--r--  1 olivier  staff  7324  3 déc 16:08 pack-6ebdc20170be673b286e8bc805d2c6f5c9426af5.pack
+
+./.git/refs:
+total 0
+drwxr-xr-x  4 olivier  staff  128  3 déc 16:08 heads
+drwxr-xr-x  3 olivier  staff   96  3 déc 16:08 remotes
+drwxr-xr-x  2 olivier  staff   64  3 déc 16:08 tags
+
+./.git/refs/heads:
+total 16
+-rw-r--r--  1 olivier  staff  41  3 déc 16:08 branch070
+-rw-r--r--  1 olivier  staff  41  3 déc 16:08 master
+
+./.git/refs/remotes:
+total 0
+drwxr-xr-x  3 olivier  staff  96  3 déc 16:08 origin
+
+./.git/refs/remotes/origin:
+total 8
+-rw-r--r--  1 olivier  staff  35  3 déc 16:08 HEAD
+
+./.git/refs/tags:
+total 0
+
+./datagenerator:
+total 0
